@@ -1,0 +1,15 @@
+img{
+    float: left; 
+    height: 200px; 
+    width: 200px;
+}
+h1{
+    border-bottom-style: inset;
+    font-style: normal;
+    color: #007FFF;
+}
+h3{
+    color: orange;
+    height: 200px;
+    text-align: center;
+}
