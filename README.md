@@ -1,3 +1,3 @@
 # JavaScript-livro
 # Lógica de Programação e Algoritmos com JavaScript - LIVRO - 2º Edição // Melhor livro para quem esta começando em javaScript.
-# <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gustavotz14-20&marketplace=amazon&region=BR&placement=6586057906&asins=6586057906&linkId=214c1c59e020c5141f993101bd63ff27&show_border=true&link_opens_in_new_window=true"></iframe>
+# Link do Livro: https://amzn.to/3XrlxCU
