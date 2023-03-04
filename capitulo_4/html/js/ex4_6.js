@@ -7,11 +7,11 @@ const reps5 = document.querySelector("#outResp5")
 
 frm.addEventListener("submit", (e) =>{
     const saque = Number(frm.inSaque.value)
-    if(saque % 10 == 0){
+    /*if(saque % 10 == 0){
         alert("valor invalido para notas disponíveis (R$ 10, 50, 100)")
         frm.inSaque.focus()
         return
-    } 
+    } */
     
     const notasCem = Math.floor(saque / 100)
     let resto = saque % 100
